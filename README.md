@@ -1,7 +1,6 @@
 <h3 align="center">
   <strong>
-    Mürsel ŞEN
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=M%C3%BCrsel+%C5%9Een" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+India&weight=900&size=25&pause=1000&color=FFFFFF&background=FF0C6800&vCenter=true&width=442&lines=M%C3%BCrsel+%C5%9Een" alt="Typing SVG" /></a>
   </strong>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=murselsen&label=Profile%20views&color=0e75b6&style=flat" alt="murselsen" />
