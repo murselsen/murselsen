@@ -1,5 +1,5 @@
 <div align="center">
-<img src="http://www.murselsen.com/wp-content/uploads/2025/01/IMG_20230530_172459.jpg" align="center" style="width: 100%" />
+<img src="http://www.murselsen.com/wp-content/uploads/2025/01/IMG_20230530_172459.jpg" width="600" height="600" align="center" style="width: 100%" />
 </div>  
   
 
