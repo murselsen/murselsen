@@ -1,130 +1,122 @@
-<h3 align="center">
-  <strong>
-    Mürsel ŞEN
-  </strong>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=murselsen&label=Profile%20views&color=0e75b6&style=flat" alt="murselsen" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" />
-  <img src="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg"
-    alt="Total time coded since Jun 7 2023" />
-  <br />
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11186162261&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11186162261&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=df18e2&bar_color_cover=false" alt="Spotify"/>
-</h3>
- 
-## Technologies
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<div style="width:100%;" align="center">
-  <table  style="border:0; width: 100%;">
-    <tr>
-      <th>Html</th>
-      <th>Css</th>
-      <th>JavaScript</th>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"
-          height="40" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo"
-          height="40" /></td>
-          <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40" /></td>
-    </tr>
-    <tr>
-    <th>BootStrap</th>
-      <th>Node.Js</th>
-      <th>Express.Js</th>
-    </tr>
-    <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-          alt="bootstrap logo" height="40" /></td>
-      <td><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40" /></td>
-         <td><img src="https://cdn.simpleicons.org/express/fff000" alt="express logo" height="40" /></td>
-    </tr>
-    <tr>
-    <th>Electron.Js</th>
-      <th>Jquery</th>
-      <th>Python</th>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40" /></td>
-         <td><img src="https://cdn.simpleicons.org/jquery/47848F" alt="jquery logo" height="40" /></td>
-       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-          alt="python logo" height="40" /></td>
-    </tr>
-    <tr>
-     <th colspan="3">VS Code</th>
-     </tr>
-     <tr>
-     <td colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-          alt="vscode logo" height="40" /></td>
-     </tr>
-  </table>
+### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+  
+
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+  
+
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-<table style="border:0; width: 100%;">
-  <tr>
-    <th>
-      <h3>Languages over All Time</h3>
-    </th>
-    <th>
-      <h3>Coding Activity over All Time</h3>
-    </th>
-    <th>
-      <h3>Projects over All Time</h3>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@murselsen/3ba3d656-553a-41bf-a57b-3da03f750117.svg" height="400"
-        width="100%" />
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@murselsen/c7f22644-7e1e-45f5-9c69-eac94f1f09e6.svg" height="400"
-        width="100%" />
-    </td>
-    <td>
-      <img
-        src="https://github-contributor-stats.vercel.app/api?username=murselsen&limit=5&theme=gruvbox&combine_all_yearly_contributions=true"
-        alt="GitHub Contributor Stats" />
-    </td>
-  </tr>
-</table>
+</td><td valign="top" width="33%">
 
 
 
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
 
 
-## Social Media
 
-<p align="center">
-  <a href="https://discord.com/users/643474762085040138" target='__blank'>
-    <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/main/public/SocialMedia/discord/default.svg"
-      alt="discord logo" height="40" width="52" />
-  </a>
-  <a href="https://www.instagram.com/35_mursel/" target='__blank'>
-    <img
-      src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/main/public/SocialMedia/instagram/default.svg"
-      alt="instagram logo" height="40" width="52" /></a>
-  <a href="mailto:murselsen803@gmail.com" target='__blank'>
-    <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/main/public/SocialMedia/gmail/default.svg"
-      alt="gmail logo" height="40" width="52" /></a>
-</p>
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
+</div>
 
-## Stats
+</td></tr></table>  
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=murselsen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula"
-    height="150" alt="stats graph" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=murselsen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
-    height="150" alt="languages graph" />
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=murselsen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
-    height="200" alt="trophy graph" />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=murselsen&radius=16&theme=react&area=true&order=5"
-    height="300" alt="activity-graph graph" />
-</p>
+<br/>  
 
-## Coding Activity over All Time
 
-<img src="https://wakatime.com/share/@murselsen/4aa100ab-f0ee-4a0b-9163-ed35b5af9c93.svg" height="150"></img>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/murselsen" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/MQuel35" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/murselsen" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/35mursel" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=murselsen&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murselsen&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=murselsen&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
