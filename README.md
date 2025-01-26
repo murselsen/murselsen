@@ -98,23 +98,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=murselsen&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 <div align="center"></div>
 <br />
 
