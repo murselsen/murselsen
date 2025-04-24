@@ -100,26 +100,7 @@
 </div>
 
 
-## Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=murselsen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula"
-    height="150" alt="stats graph" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=murselsen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
-    height="150" alt="languages graph" />
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=murselsen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
-    height="200" alt="trophy graph" />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=murselsen&radius=16&theme=react&area=true&order=5"
-    height="300" alt="activity-graph graph" />
-</p>
-
-## Coding Activity over All Time
-
-<img src="https://wakatime.com/share/@murselsen/4aa100ab-f0ee-4a0b-9163-ed35b5af9c93.svg" height="150"></img>
+ 
 
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572](https://github.com/user-attachments/assets/1292bec5-99ee-4d94-93df-73499f58bd8b)
 
