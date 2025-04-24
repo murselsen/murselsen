@@ -12,10 +12,7 @@
 </h3>
  
  
-<h2>Hi! I'm Mürsel Sen</h2>
-<div align="left">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" />
-</div>
+ 
 <div>
 <h3 align="left">Techs</h3>
 <div align="left">
