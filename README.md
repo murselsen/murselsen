@@ -11,102 +11,94 @@
   <a href="https://open.spotify.com/user/11186162261?si=486a6902f5224ba5&nd=1&dlsi=c559a2974ca049db"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11186162261&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=11186162261&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=df18e2&bar_color_cover=false" alt="Spotify"/> </a>
 </h3>
  
-## Technologies
+ 
+<h2>Hi! I'm Mürsel Sen</h2>
+<div align="left">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=murselsen.murselsen&" />
+</div>
+<div>
+<h3 align="left">Techs</h3>
+<div align="left">
 
-<div style="width:100%;" align="center">
-  <table  style="border:0; width: 100%;">
-    <tr>
-      <th>Html</th>
-      <th>Css</th>
-      <th>JavaScript</th>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"
-          height="40" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo"
-          height="40" /></td>
-          <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript logo" height="40" /></td>
-    </tr>
-    <tr>
-    <th>BootStrap</th>
-      <th>Node.Js</th>
-      <th>Express.Js</th>
-    </tr>
-    <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-          alt="bootstrap logo" height="40" /></td>
-      <td><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs logo" height="40" /></td>
-         <td><img src="https://cdn.simpleicons.org/express/fff000" alt="express logo" height="40" /></td>
-    </tr>
-    <tr>
-    <th>Electron.Js</th>
-      <th>Jquery</th>
-      <th>Python</th>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40" /></td>
-         <td><img src="https://cdn.simpleicons.org/jquery/47848F" alt="jquery logo" height="40" /></td>
-       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-          alt="python logo" height="40" /></td>
-    </tr>
-    <tr>
-     <th colspan="3">VS Code</th>
-     </tr>
-     <tr>
-     <td colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-          alt="vscode logo" height="40" /></td>
-     </tr>
-  </table>
+<img src="https://skillicons.dev/icons?i=discord" alt="discord logo" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/express/000000" alt="express logo" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/git/F05032" alt="git logo" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery logo" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=php" alt="php logo" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/postman/FF6C37" alt="postman logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=py" alt="python logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=react" alt="react logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=vite" alt="vite logo" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" height="40"/>
+<img width="12"/>
+
+</div>
+</div>
+<div>
+<h3 align="left">Social Media</h3>
+
+<a href="https://www.instagram.com/35.mursel/" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/instagram/default.svg" alt="instagram logo" height="40" width="52"/></a>
+<img width="12"/>
+<a href="murselsen803@gmail.com" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/gmail/default.svg" alt="gmail logo" height="40" width="52"/></a>
+<img width="12"/>
+<a href="https://www.linkedin.com/in/murselsen/" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/linkedin/default.svg" alt="linkedin logo" height="40" width="52"/></a>
+<img width="12"/>
+<a href="https://discord.com/users/643474762085040138" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/discord/default.svg" alt="discord logo" height="40" width="52"/></a>
+<img width="12"/>
+<a href="https://github.com/murselsen" target='__blank'><img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/github/default.svg" alt="github logo" height="40" width="52"/></a>
+<img width="12"/>
+</div>
+<div>
+<h3 align="left">Stats</h3>
+<div align="left">
+
+<img src="https://github-readme-stats.vercel.app/api?username=murselsen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=murselsen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com?user=murselsen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=murselsen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="200" alt="trophy graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=murselsen&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 </div>
 
-<table style="border:0; width: 100%;">
-  <tr>
-    <th>
-      <h3>Languages over All Time</h3>
-    </th>
-    <th>
-      <h3>Coding Activity over All Time</h3>
-    </th>
-    <th>
-      <h3>Projects over All Time</h3>
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@murselsen/3ba3d656-553a-41bf-a57b-3da03f750117.svg" height="400"
-        width="100%" />
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@murselsen/c7f22644-7e1e-45f5-9c69-eac94f1f09e6.svg" height="400"
-        width="100%" />
-    </td>
-    <td>
-      <img
-        src="https://github-contributor-stats.vercel.app/api?username=murselsen&limit=5&theme=gruvbox&combine_all_yearly_contributions=true"
-        alt="GitHub Contributor Stats" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-## Social Media
-
-<p align="center">
-  <a href="https://discord.com/users/643474762085040138" target='__blank'>
-    <img src="https://image.pngaaa.com/766/2341766-middle.png"
-      alt="discord logo" height="40" width="52" />
-  </a>
-  <a href="https://www.instagram.com/35_mursel/" target='__blank'>
-    <img
-      src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/main/public/SocialMedia/instagram/default.svg"
-      alt="instagram logo" height="40" width="52" /></a>
-  <a href="mailto:murselsen803@gmail.com" target='__blank'>
-    <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/main/public/SocialMedia/gmail/default.svg"
-      alt="gmail logo" height="40" width="52" /></a>
-</p>
 
 ## Stats
 
