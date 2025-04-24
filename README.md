@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/643474762085040138" target='__blank'>
-    <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/main/public/SocialMedia/discord/default.svg"
+    <img src="https://image.pngaaa.com/766/2341766-middle.png"
       alt="discord logo" height="40" width="52" />
   </a>
   <a href="https://www.instagram.com/35_mursel/" target='__blank'>
