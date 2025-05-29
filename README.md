@@ -19,57 +19,32 @@
 <div>
 <h3 align="left">Techs</h3>
 <div align="left">
-
-<img src="https://skillicons.dev/icons?i=discord" alt="discord logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/express/000000" alt="express logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/git/F05032" alt="git logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo" height="40"/>
-<img width="12"/>
-<br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=php" alt="php logo" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/postman/FF6C37" alt="postman logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=py" alt="python logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=react" alt="react logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=vite" alt="vite logo" height="40"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" height="40"/>
-<img width="12"/>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=discord" alt="discord logo" height="40"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/electron/47848F" alt="electron logo" height="40"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/express/000000" alt="express logo" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo" height="40"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" alt="git logo" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram logo" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery logo" height="40"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin logo" height="40"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" height="40"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" alt="php logo" height="40"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" alt="postman logo" height="40"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py" alt="python logo" height="40"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="react logo" height="40"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vite" alt="vite logo" height="40"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" height="40"/></td>
+    <td></td>
+  </tr>
+</table>
 
 </div>
 </div>
