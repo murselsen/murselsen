@@ -1,3 +1,6 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGvlXKBZxnnaw/profile-displaybackgroundimage-shrink_350_1400/B4DZcZTk2jG8AY-/0/1748476252220?e=1753920000&v=beta&t=gPM9uARzMPXhXtJrexql8ROIZ_HJlq_aLn8MOEZlbtA" alt="discord logo"  />
+
+
 <h3 align="center">
   <strong>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+India&weight=900&size=25&pause=1000&color=FFFFFF&background=FF0C6800&center=true&vCenter=true&width=442&lines=M%C3%BCrsel+%C5%9Een" alt="Typing SVG" /></a>
