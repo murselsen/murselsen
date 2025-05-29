@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGvlXKBZxnnaw/profile-displaybackgroundimage-shrink_350_1400/B4DZcZTk2jG8AY-/0/1748476252220?e=1753920000&v=beta&t=gPM9uARzMPXhXtJrexql8ROIZ_HJlq_aLn8MOEZlbtA" alt="discord logo"  />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFEfyLL8wgu8Q/profile-displaybackgroundimage-shrink_350_1400/B4DZcbW8WZGgAY-/0/1748510691593?e=1753920000&v=beta&t=7X8D7EOP4xOVRTaFa7SJmQHpVVE9EGHPxkq-TeNt9us" alt="discord logo"  />
 
 
 <h3 align="center">
