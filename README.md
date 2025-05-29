@@ -65,9 +65,9 @@
 <h3 align="left">Stats</h3>
 
   <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=murselsen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=murselsen&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=true&no-bg=true&order=2" height="150" alt="languages graph"  />
 <img src="https://camo.githubusercontent.com/c3d38af4aba2363fbe420f4df33162a74c70bae1ddfcc5dd5d4e4f53ae723273/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d757273656c73656e26686964655f7469746c653d66616c736526686964655f72616e6b3d66616c73652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d747275652664697361626c655f616e696d6174696f6e733d66616c7365267468656d653d64726163756c61" height="150" alt="streak graph"  />
-<img src="https://github-profile-trophy.vercel.app?username=murselsen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="100" alt="trophy graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=murselsen&theme=dracula&column=5&row=2&margin-w=-1&margin-h=8&no-bg=true&no-frame=true&order=4" height="300" width="100%" alt="trophy graph"  />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=murselsen&radius=1&hide_border=true&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 </div>
