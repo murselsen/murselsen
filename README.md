@@ -1,5 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFEfyLL8wgu8Q/profile-displaybackgroundimage-shrink_350_1400/B4DZcbW8WZGgAY-/0/1748510691593?e=1753920000&v=beta&t=7X8D7EOP4xOVRTaFa7SJmQHpVVE9EGHPxkq-TeNt9us" alt="discord logo"  />
-
+<img src="gh-profile-banner.jpg" alt="murselsen"  />
+ 
 
 <h3 align="center">
   <strong>
