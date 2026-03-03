@@ -8,9 +8,9 @@
   <img src="https://wakatime.com/badge/user/602e419d-f1c9-4979-ac85-a3da5d93f7e7.svg"
     alt="Total time coded since Jun 7 2023" />
   <br />
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=11186162261&redirect=true">
+  <!-- <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=11186162261&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11186162261&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
-  </a>
+  </a> -->
 </h3>
 
 # Hi 👋, I'm Mürsel Şen
